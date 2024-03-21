@@ -1,0 +1,762 @@
+City,Customer_type,Product line,Quantity,Date,day_of_week,Total
+Yangon,Member,Electronic accessories,10,2021-01-01,4,779.31
+Naypyitaw,Normal,Health and beauty,2,2021-01-01,4,132.027
+Mandalay,Normal,Electronic accessories,6,2021-01-01,4,470.673
+Yangon,Member,Home and lifestyle,8,2021-01-01,4,399.756
+Mandalay,Member,Food and beverages,10,2021-01-01,4,888.615
+Naypyitaw,Normal,Electronic accessories,2,2021-01-01,4,132.762
+Yangon,Member,Sports and travel,4,2021-01-01,4,113.568
+Naypyitaw,Member,Sports and travel,10,2021-01-01,4,388.29
+Yangon,Normal,Fashion accessories,9,2021-01-01,4,621.243
+Yangon,Normal,Sports and travel,1,2021-01-02,5,44.5935
+Mandalay,Normal,Sports and travel,6,2021-01-02,5,281.169
+Mandalay,Normal,Health and beauty,10,2021-01-02,5,359.205
+Mandalay,Normal,Electronic accessories,6,2021-01-02,5,138.663
+Mandalay,Member,Fashion accessories,9,2021-01-02,5,383.7645
+Naypyitaw,Member,Sports and travel,8,2021-01-02,5,266.028
+Yangon,Normal,Health and beauty,5,2021-01-03,6,367.5525
+Mandalay,Member,Health and beauty,8,2021-01-03,6,520.8
+Naypyitaw,Member,Health and beauty,2,2021-01-03,6,44.352
+Naypyitaw,Member,Health and beauty,1,2021-01-03,6,79.674
+Yangon,Normal,Home and lifestyle,5,2021-01-03,6,352.2225
+Mandalay,Normal,Home and lifestyle,6,2021-01-03,6,397.845
+Yangon,Member,Health and beauty,5,2021-01-04,0,110.0925
+Mandalay,Normal,Sports and travel,3,2021-01-04,0,146.223
+Mandalay,Member,Fashion accessories,4,2021-01-04,0,288.582
+Yangon,Member,Home and lifestyle,10,2021-01-04,0,373.17
+Mandalay,Normal,Food and beverages,1,2021-01-05,1,74.76
+Naypyitaw,Member,Fashion accessories,1,2021-01-05,1,33.495
+Yangon,Member,Home and lifestyle,4,2021-01-05,1,263.13
+Naypyitaw,Normal,Fashion accessories,6,2021-01-05,1,172.494
+Yangon,Normal,Electronic accessories,7,2021-01-05,1,690.018
+Mandalay,Member,Home and lifestyle,9,2021-01-05,1,334.341
+Mandalay,Member,Fashion accessories,1,2021-01-05,1,77.658
+Yangon,Member,Home and lifestyle,4,2021-01-05,1,297.108
+Yangon,Normal,Home and lifestyle,5,2021-01-05,1,225.2775
+Mandalay,Normal,Home and lifestyle,4,2021-01-06,2,261.198
+Naypyitaw,Normal,Food and beverages,10,2021-01-06,2,939.54
+Yangon,Normal,Fashion accessories,7,2021-01-06,2,312.8895
+Yangon,Normal,Sports and travel,1,2021-01-06,2,16.107
+Yangon,Normal,Food and beverages,5,2021-01-06,2,214.935
+Naypyitaw,Normal,Fashion accessories,4,2021-01-06,2,343.056
+Mandalay,Member,Health and beauty,9,2021-01-06,2,760.4415
+Naypyitaw,Member,Home and lifestyle,10,2021-01-07,3,229.11
+Naypyitaw,Member,Sports and travel,1,2021-01-07,3,71.526
+Naypyitaw,Normal,Food and beverages,3,2021-01-07,3,85.743
+Yangon,Member,Electronic accessories,4,2021-01-07,3,326.424
+Mandalay,Normal,Fashion accessories,7,2021-01-07,3,352.5795
+Yangon,Member,Home and lifestyle,9,2021-01-07,3,203.553
+Mandalay,Member,Food and beverages,4,2021-01-07,3,374.388
+Naypyitaw,Normal,Home and lifestyle,4,2021-01-08,4,190.596
+Naypyitaw,Member,Food and beverages,9,2021-01-08,4,688.716
+Naypyitaw,Member,Food and beverages,3,2021-01-08,4,76.5765
+Yangon,Member,Electronic accessories,3,2021-01-08,4,250.7085
+Mandalay,Member,Fashion accessories,10,2021-01-08,4,684.915
+Mandalay,Member,Food and beverages,10,2021-01-08,4,783.3
+Mandalay,Member,Sports and travel,2,2021-01-08,4,136.143
+Mandalay,Member,Food and beverages,10,2021-01-08,4,348.705
+Naypyitaw,Normal,Fashion accessories,1,2021-01-08,4,13.419
+Yangon,Normal,Electronic accessories,4,2021-01-08,4,210.966
+Naypyitaw,Member,Fashion accessories,7,2021-01-08,4,381.3915
+Naypyitaw,Member,Home and lifestyle,3,2021-01-08,4,175.0455
+Yangon,Member,Sports and travel,2,2021-01-08,4,26.796
+Mandalay,Member,Sports and travel,3,2021-01-08,4,152.775
+Naypyitaw,Member,Fashion accessories,9,2021-01-09,5,463.428
+Naypyitaw,Normal,Electronic accessories,7,2021-01-09,5,708.3195
+Naypyitaw,Normal,Fashion accessories,6,2021-01-09,5,310.716
+Yangon,Member,Fashion accessories,5,2021-01-09,5,202.335
+Mandalay,Member,Sports and travel,8,2021-01-09,5,99.54
+Naypyitaw,Normal,Home and lifestyle,10,2021-01-09,5,165.9
+Mandalay,Normal,Fashion accessories,7,2021-01-10,6,586.971
+Yangon,Member,Health and beauty,2,2021-01-10,6,76.146
+Naypyitaw,Member,Food and beverages,9,2021-01-10,6,477.1305
+Yangon,Member,Sports and travel,7,2021-01-10,6,161.553
+Naypyitaw,Member,Electronic accessories,5,2021-01-10,6,392.6475
+Yangon,Member,Home and lifestyle,6,2021-01-10,6,493.794
+Naypyitaw,Normal,Sports and travel,7,2021-01-10,6,611.079
+Naypyitaw,Member,Sports and travel,2,2021-01-11,0,183.036
+Yangon,Normal,Home and lifestyle,6,2021-01-11,0,608.076
+Yangon,Normal,Food and beverages,9,2021-01-11,0,235.683
+Yangon,Normal,Food and beverages,5,2021-01-11,0,72.3975
+Yangon,Member,Sports and travel,4,2021-01-11,0,345.786
+Naypyitaw,Member,Food and beverages,7,2021-01-11,0,270.2595
+Mandalay,Normal,Home and lifestyle,7,2021-01-12,1,375.3645
+Naypyitaw,Member,Sports and travel,7,2021-01-12,1,419.832
+Yangon,Member,Electronic accessories,10,2021-01-12,1,931.035
+Mandalay,Member,Electronic accessories,8,2021-01-12,1,769.104
+Mandalay,Member,Health and beauty,1,2021-01-12,1,28.4235
+Naypyitaw,Normal,Home and lifestyle,10,2021-01-12,1,1023.75
+Mandalay,Normal,Health and beauty,2,2021-01-12,1,120.162
+Mandalay,Normal,Fashion accessories,10,2021-01-12,1,874.125
+Mandalay,Member,Sports and travel,6,2021-01-13,2,457.38
+Naypyitaw,Normal,Electronic accessories,10,2021-01-13,2,437.325
+Yangon,Member,Health and beauty,9,2021-01-13,2,374.409
+Yangon,Normal,Electronic accessories,6,2021-01-13,2,147.798
+Yangon,Member,Home and lifestyle,3,2021-01-13,2,255.1815
+Mandalay,Normal,Food and beverages,2,2021-01-13,2,152.019
+Mandalay,Member,Fashion accessories,2,2021-01-13,2,125.706
+Yangon,Normal,Sports and travel,7,2021-01-13,2,335.013
+Naypyitaw,Normal,Food and beverages,1,2021-01-14,3,89.0715
+Mandalay,Member,Fashion accessories,4,2021-01-14,3,75.936
+Yangon,Member,Fashion accessories,5,2021-01-14,3,507.675
+Mandalay,Normal,Food and beverages,7,2021-01-14,3,536.991
+Naypyitaw,Member,Electronic accessories,9,2021-01-14,3,423.738
+Naypyitaw,Normal,Food and beverages,4,2021-01-14,3,133.434
+Mandalay,Normal,Sports and travel,1,2021-01-14,3,36.5505
+Mandalay,Normal,Health and beauty,1,2021-01-14,3,18.6375
+Mandalay,Normal,Food and beverages,5,2021-01-14,3,523.3725
+Yangon,Member,Fashion accessories,10,2021-01-14,3,588.42
+Mandalay,Normal,Electronic accessories,5,2021-01-15,4,397.215
+Yangon,Normal,Sports and travel,7,2021-01-15,4,140.385
+Mandalay,Normal,Fashion accessories,2,2021-01-15,4,154.392
+Yangon,Normal,Electronic accessories,9,2021-01-15,4,575.316
+Naypyitaw,Normal,Electronic accessories,10,2021-01-15,4,586.635
+Yangon,Member,Home and lifestyle,9,2021-01-15,4,843.0345
+Mandalay,Member,Health and beauty,10,2021-01-15,4,697.935
+Yangon,Normal,Home and lifestyle,6,2021-01-15,4,72.009
+Naypyitaw,Member,Food and beverages,5,2021-01-15,4,91.56
+Yangon,Member,Food and beverages,2,2021-01-15,4,175.917
+Naypyitaw,Member,Sports and travel,2,2021-01-16,5,32.529
+Mandalay,Member,Fashion accessories,1,2021-01-16,5,53.928
+Yangon,Member,Home and lifestyle,10,2021-01-16,5,667.38
+Naypyitaw,Normal,Food and beverages,9,2021-01-16,5,881.307
+Yangon,Normal,Sports and travel,2,2021-01-16,5,195.678
+Mandalay,Normal,Fashion accessories,4,2021-01-16,5,164.682
+Mandalay,Member,Sports and travel,7,2021-01-16,5,666.939
+Naypyitaw,Member,Sports and travel,7,2021-01-16,5,125.979
+Naypyitaw,Member,Health and beauty,2,2021-01-17,6,131.922
+Naypyitaw,Member,Sports and travel,5,2021-01-17,6,377.58
+Yangon,Normal,Home and lifestyle,6,2021-01-17,6,135.576
+Naypyitaw,Member,Food and beverages,2,2021-01-17,6,137.865
+Mandalay,Member,Food and beverages,2,2021-01-17,6,121.569
+Yangon,Normal,Sports and travel,3,2021-01-17,6,80.955
+Yangon,Normal,Food and beverages,10,2021-01-17,6,852.705
+Mandalay,Normal,Sports and travel,2,2021-01-17,6,85.302
+Mandalay,Member,Fashion accessories,6,2021-01-18,0,110.124
+Yangon,Normal,Electronic accessories,5,2021-01-18,0,138.1275
+Naypyitaw,Normal,Fashion accessories,7,2021-01-18,0,446.439
+Naypyitaw,Normal,Health and beauty,1,2021-01-18,0,41.391
+Yangon,Member,Fashion accessories,3,2021-01-18,0,277.6725
+Yangon,Member,Home and lifestyle,9,2021-01-18,0,182.952
+Naypyitaw,Member,Sports and travel,9,2021-01-18,0,856.4535
+Naypyitaw,Normal,Electronic accessories,4,2021-01-19,1,235.746
+Yangon,Normal,Fashion accessories,6,2021-01-19,1,624.33
+Yangon,Normal,Sports and travel,10,2021-01-19,1,673.995
+Yangon,Member,Electronic accessories,3,2021-01-19,1,37.611
+Yangon,Normal,Food and beverages,6,2021-01-19,1,323.064
+Naypyitaw,Member,Food and beverages,4,2021-01-19,1,250.278
+Naypyitaw,Member,Home and lifestyle,1,2021-01-19,1,93.0405
+Naypyitaw,Member,Sports and travel,1,2021-01-19,1,84.9765
+Yangon,Normal,Food and beverages,8,2021-01-19,1,284.592
+Mandalay,Member,Electronic accessories,8,2021-01-19,1,101.64
+Mandalay,Member,Electronic accessories,6,2021-01-19,1,333.207
+Mandalay,Normal,Sports and travel,3,2021-01-19,1,198.639
+Mandalay,Normal,Home and lifestyle,3,2021-01-20,2,118.062
+Yangon,Member,Home and lifestyle,10,2021-01-20,2,759.675
+Yangon,Member,Fashion accessories,8,2021-01-20,2,536.592
+Yangon,Normal,Sports and travel,2,2021-01-20,2,195.594
+Naypyitaw,Normal,Health and beauty,7,2021-01-20,2,470.988
+Naypyitaw,Member,Sports and travel,4,2021-01-20,2,348.306
+Naypyitaw,Member,Home and lifestyle,8,2021-01-20,2,749.7
+Naypyitaw,Normal,Fashion accessories,8,2021-01-20,2,131.208
+Yangon,Normal,Food and beverages,3,2021-01-21,3,172.2105
+Naypyitaw,Member,Food and beverages,1,2021-01-21,3,72.429
+Yangon,Normal,Home and lifestyle,6,2021-01-21,3,491.085
+Yangon,Normal,Home and lifestyle,6,2021-01-21,3,461.286
+Yangon,Member,Food and beverages,2,2021-01-21,3,76.356
+Mandalay,Member,Sports and travel,1,2021-01-21,3,103.0365
+Mandalay,Normal,Health and beauty,6,2021-01-22,4,351.603
+Naypyitaw,Member,Health and beauty,1,2021-01-22,4,85.5855
+Yangon,Normal,Home and lifestyle,3,2021-01-22,4,96.642
+Naypyitaw,Member,Home and lifestyle,5,2021-01-22,4,206.7975
+Mandalay,Normal,Food and beverages,5,2021-01-22,4,151.515
+Naypyitaw,Normal,Health and beauty,5,2021-01-23,5,57.6975
+Yangon,Member,Food and beverages,9,2021-01-23,5,450.1035
+Naypyitaw,Normal,Electronic accessories,1,2021-01-23,5,87.234
+Yangon,Member,Health and beauty,5,2021-01-23,5,503.7375
+Naypyitaw,Member,Sports and travel,10,2021-01-23,5,942.9
+Yangon,Normal,Fashion accessories,1,2021-01-23,5,32.1405
+Naypyitaw,Normal,Health and beauty,7,2021-01-23,5,734.706
+Yangon,Member,Fashion accessories,5,2021-01-23,5,94.185
+Yangon,Normal,Electronic accessories,6,2021-01-23,5,416.178
+Yangon,Member,Food and beverages,6,2021-01-23,5,620.739
+Naypyitaw,Normal,Fashion accessories,7,2021-01-23,5,333.984
+Naypyitaw,Member,Food and beverages,8,2021-01-23,5,323.148
+Naypyitaw,Member,Home and lifestyle,6,2021-01-23,5,527.751
+Naypyitaw,Member,Home and lifestyle,1,2021-01-24,6,63.9135
+Mandalay,Member,Sports and travel,6,2021-01-24,6,145.404
+Yangon,Normal,Health and beauty,5,2021-01-24,6,406.875
+Mandalay,Member,Electronic accessories,10,2021-01-24,6,423.15
+Mandalay,Normal,Sports and travel,10,2021-01-24,6,804.3
+Mandalay,Member,Fashion accessories,3,2021-01-24,6,293.643
+Mandalay,Normal,Home and lifestyle,5,2021-01-24,6,384.72
+Yangon,Normal,Electronic accessories,8,2021-01-24,6,88.704
+Yangon,Member,Fashion accessories,8,2021-01-24,6,728.112
+Mandalay,Normal,Electronic accessories,7,2021-01-24,6,557.718
+Mandalay,Normal,Health and beauty,1,2021-01-25,0,100.9155
+Naypyitaw,Member,Sports and travel,9,2021-01-25,0,663.2955
+Mandalay,Member,Health and beauty,4,2021-01-25,0,214.746
+Yangon,Member,Home and lifestyle,3,2021-01-25,0,167.895
+Mandalay,Normal,Fashion accessories,7,2021-01-25,0,291.207
+Mandalay,Normal,Fashion accessories,2,2021-01-25,0,128.016
+Yangon,Normal,Fashion accessories,1,2021-01-25,0,77.805
+Naypyitaw,Normal,Health and beauty,8,2021-01-25,0,288.204
+Yangon,Member,Home and lifestyle,4,2021-01-25,0,252.042
+Mandalay,Normal,Sports and travel,2,2021-01-25,0,45.927
+Yangon,Member,Sports and travel,4,2021-01-25,0,168.21
+Naypyitaw,Member,Health and beauty,10,2021-01-25,0,950.25
+Mandalay,Normal,Food and beverages,7,2021-01-25,0,356.5485
+Mandalay,Member,Food and beverages,2,2021-01-26,1,165.648
+Naypyitaw,Member,Health and beauty,3,2021-01-26,1,106.5015
+Mandalay,Normal,Sports and travel,5,2021-01-26,1,270.585
+Yangon,Normal,Fashion accessories,1,2021-01-26,1,22.386
+Mandalay,Member,Food and beverages,5,2021-01-26,1,420.2625
+Naypyitaw,Normal,Fashion accessories,5,2021-01-26,1,193.4625
+Mandalay,Normal,Electronic accessories,7,2021-01-26,1,640.038
+Mandalay,Member,Health and beauty,9,2021-01-26,1,655.5465
+Mandalay,Normal,Fashion accessories,10,2021-01-26,1,398.475
+Naypyitaw,Normal,Fashion accessories,1,2021-01-26,1,68.2395
+Yangon,Normal,Fashion accessories,1,2021-01-26,1,12.6945
+Mandalay,Normal,Home and lifestyle,4,2021-01-26,1,107.31
+Yangon,Normal,Electronic accessories,7,2021-01-26,1,379.9215
+Yangon,Member,Electronic accessories,1,2021-01-27,2,76.923
+Naypyitaw,Member,Electronic accessories,10,2021-01-27,2,488.985
+Yangon,Normal,Fashion accessories,7,2021-01-27,2,398.958
+Yangon,Normal,Home and lifestyle,2,2021-01-27,2,25.263
+Yangon,Normal,Sports and travel,5,2021-01-27,2,169.3125
+Mandalay,Normal,Home and lifestyle,10,2021-01-27,2,514.605
+Naypyitaw,Member,Fashion accessories,9,2021-01-27,2,510.9615
+Naypyitaw,Normal,Home and lifestyle,2,2021-01-27,2,145.74
+Naypyitaw,Member,Home and lifestyle,7,2021-01-27,2,178.164
+Naypyitaw,Normal,Sports and travel,10,2021-01-27,2,150.78
+Naypyitaw,Normal,Food and beverages,6,2021-01-27,2,568.512
+Yangon,Normal,Food and beverages,7,2021-01-28,3,84.7455
+Naypyitaw,Normal,Fashion accessories,5,2021-01-28,3,125.055
+Naypyitaw,Member,Electronic accessories,6,2021-01-28,3,118.251
+Naypyitaw,Member,Health and beauty,3,2021-01-28,3,273.42
+Naypyitaw,Normal,Sports and travel,8,2021-01-28,3,680.148
+Mandalay,Member,Health and beauty,8,2021-01-28,3,633.108
+Naypyitaw,Normal,Health and beauty,5,2021-01-28,3,91.4025
+Yangon,Member,Electronic accessories,8,2021-01-28,3,203.112
+Mandalay,Member,Electronic accessories,10,2021-01-28,3,225.015
+Naypyitaw,Normal,Home and lifestyle,4,2021-01-28,3,293.202
+Mandalay,Member,Health and beauty,1,2021-01-28,3,20.1075
+Yangon,Member,Home and lifestyle,5,2021-01-29,4,458.6925
+Mandalay,Normal,Food and beverages,6,2021-01-29,4,529.515
+Mandalay,Member,Fashion accessories,4,2021-01-29,4,137.004
+Naypyitaw,Member,Sports and travel,6,2021-01-29,4,120.645
+Naypyitaw,Normal,Health and beauty,1,2021-01-29,4,42.3675
+Yangon,Normal,Electronic accessories,1,2021-01-29,4,40.53
+Yangon,Member,Sports and travel,5,2021-01-29,4,146.6325
+Naypyitaw,Normal,Fashion accessories,6,2021-01-29,4,265.104
+Mandalay,Member,Sports and travel,10,2021-01-29,4,280.035
+Mandalay,Normal,Electronic accessories,8,2021-01-30,5,356.328
+Naypyitaw,Normal,Sports and travel,2,2021-01-30,5,160.44
+Naypyitaw,Normal,Sports and travel,1,2021-01-30,5,23.499
+Mandalay,Normal,Electronic accessories,4,2021-01-30,5,99.33
+Naypyitaw,Member,Food and beverages,10,2021-01-30,5,1034.46
+Naypyitaw,Normal,Home and lifestyle,1,2021-01-30,5,24.108
+Naypyitaw,Member,Home and lifestyle,5,2021-01-30,5,55.2825
+Naypyitaw,Normal,Fashion accessories,10,2021-01-31,6,652.89
+Mandalay,Member,Sports and travel,1,2021-01-31,6,79.611
+Mandalay,Normal,Electronic accessories,4,2021-01-31,6,180.6
+Yangon,Member,Electronic accessories,1,2021-01-31,6,69.6675
+Naypyitaw,Member,Electronic accessories,4,2021-01-31,6,155.652
+Yangon,Member,Fashion accessories,8,2021-01-31,6,431.256
+Mandalay,Member,Sports and travel,6,2021-01-31,6,503.559
+Yangon,Member,Electronic accessories,4,2021-01-31,6,87.234
+Mandalay,Normal,Electronic accessories,10,2021-01-31,6,757.365
+Naypyitaw,Normal,Sports and travel,9,2021-01-31,6,224.4375
+Mandalay,Normal,Fashion accessories,2,2021-01-31,6,145.068
+Yangon,Member,Health and beauty,4,2021-02-01,0,326.256
+Yangon,Member,Sports and travel,7,2021-02-01,0,510.972
+Naypyitaw,Member,Food and beverages,6,2021-02-01,0,551.124
+Yangon,Member,Food and beverages,5,2021-02-01,0,74.7075
+Naypyitaw,Normal,Electronic accessories,6,2021-02-02,1,223.587
+Naypyitaw,Normal,Fashion accessories,4,2021-02-02,1,400.764
+Naypyitaw,Normal,Food and beverages,8,2021-02-02,1,554.148
+Yangon,Normal,Food and beverages,10,2021-02-02,1,115.08
+Yangon,Member,Health and beauty,1,2021-02-02,1,19.2465
+Naypyitaw,Member,Fashion accessories,2,2021-02-02,1,175.035
+Mandalay,Member,Food and beverages,9,2021-02-02,1,439.8975
+Yangon,Member,Fashion accessories,10,2021-02-02,1,452.865
+Mandalay,Normal,Fashion accessories,7,2021-02-02,1,187.866
+Mandalay,Normal,Home and lifestyle,8,2021-02-02,1,788.508
+Mandalay,Member,Electronic accessories,7,2021-02-02,1,193.011
+Mandalay,Member,Food and beverages,5,2021-02-03,2,247.59
+Naypyitaw,Normal,Sports and travel,4,2021-02-03,2,310.59
+Yangon,Member,Food and beverages,10,2021-02-03,2,708.225
+Yangon,Member,Home and lifestyle,7,2021-02-03,2,697.368
+Mandalay,Member,Sports and travel,9,2021-02-03,2,520.4115
+Mandalay,Member,Fashion accessories,1,2021-02-03,2,56.469
+Naypyitaw,Normal,Food and beverages,5,2021-02-03,2,212.73
+Naypyitaw,Normal,Sports and travel,10,2021-02-03,2,517.965
+Mandalay,Normal,Sports and travel,3,2021-02-03,2,135.3555
+Yangon,Normal,Fashion accessories,5,2021-02-03,2,404.355
+Mandalay,Member,Sports and travel,1,2021-02-03,2,77.6685
+Mandalay,Normal,Food and beverages,1,2021-02-04,3,71.1585
+Yangon,Member,Electronic accessories,7,2021-02-04,3,185.367
+Naypyitaw,Member,Home and lifestyle,1,2021-02-04,3,14.679
+Mandalay,Member,Food and beverages,4,2021-02-04,3,98.028
+Mandalay,Member,Fashion accessories,2,2021-02-04,3,151.284
+Naypyitaw,Normal,Health and beauty,9,2021-02-04,3,130.8825
+Mandalay,Member,Home and lifestyle,9,2021-02-04,3,734.076
+Yangon,Normal,Fashion accessories,4,2021-02-04,3,204.246
+Yangon,Member,Fashion accessories,1,2021-02-05,4,32.151
+Mandalay,Member,Food and beverages,9,2021-02-05,4,404.649
+Naypyitaw,Member,Health and beauty,10,2021-02-05,4,720.3
+Naypyitaw,Member,Health and beauty,3,2021-02-05,4,309.3615
+Yangon,Member,Electronic accessories,2,2021-02-05,4,43.869
+Naypyitaw,Member,Fashion accessories,2,2021-02-05,4,145.593
+Yangon,Member,Sports and travel,3,2021-02-05,4,236.88
+Yangon,Member,Home and lifestyle,6,2021-02-05,4,163.233
+Mandalay,Normal,Health and beauty,9,2021-02-05,4,550.368
+Yangon,Normal,Health and beauty,5,2021-02-06,5,187.32
+Naypyitaw,Member,Fashion accessories,4,2021-02-06,5,407.316
+Mandalay,Member,Food and beverages,9,2021-02-06,5,189.0945
+Naypyitaw,Member,Food and beverages,4,2021-02-06,5,417.564
+Naypyitaw,Member,Home and lifestyle,5,2021-02-06,5,188.0025
+Mandalay,Member,Health and beauty,10,2021-02-06,5,271.95
+Mandalay,Normal,Electronic accessories,10,2021-02-06,5,240.975
+Naypyitaw,Normal,Food and beverages,1,2021-02-06,5,55.041
+Naypyitaw,Normal,Health and beauty,1,2021-02-06,5,94.2375
+Yangon,Member,Home and lifestyle,6,2021-02-06,5,235.872
+Naypyitaw,Normal,Home and lifestyle,7,2021-02-07,6,122.5245
+Naypyitaw,Normal,Electronic accessories,8,2021-02-07,6,343.224
+Naypyitaw,Member,Fashion accessories,6,2021-02-07,6,273.798
+Naypyitaw,Member,Electronic accessories,4,2021-02-07,6,276.948
+Naypyitaw,Normal,Fashion accessories,2,2021-02-07,6,180.873
+Yangon,Normal,Home and lifestyle,8,2021-02-07,6,782.208
+Naypyitaw,Normal,Fashion accessories,8,2021-02-07,6,507.444
+Naypyitaw,Normal,Food and beverages,6,2021-02-07,6,103.824
+Yangon,Member,Sports and travel,1,2021-02-07,6,47.859
+Mandalay,Normal,Fashion accessories,5,2021-02-07,6,334.4775
+Mandalay,Normal,Home and lifestyle,9,2021-02-07,6,208.089
+Naypyitaw,Normal,Health and beauty,10,2021-02-07,6,618.975
+Mandalay,Member,Food and beverages,10,2021-02-07,6,570.78
+Yangon,Normal,Electronic accessories,1,2021-02-07,6,30.408
+Naypyitaw,Member,Sports and travel,1,2021-02-07,6,10.6785
+Mandalay,Normal,Electronic accessories,10,2021-02-07,6,833.595
+Mandalay,Normal,Home and lifestyle,4,2021-02-08,0,133.35
+Mandalay,Member,Home and lifestyle,4,2021-02-08,0,195.174
+Mandalay,Member,Sports and travel,6,2021-02-08,0,435.456
+Mandalay,Normal,Fashion accessories,1,2021-02-08,0,35.196
+Mandalay,Normal,Home and lifestyle,6,2021-02-08,0,103.131
+Yangon,Normal,Fashion accessories,10,2021-02-08,0,1039.29
+Naypyitaw,Member,Health and beauty,7,2021-02-08,0,273.0525
+Mandalay,Normal,Sports and travel,9,2021-02-08,0,853.146
+Naypyitaw,Member,Fashion accessories,10,2021-02-08,0,1020.705
+Yangon,Member,Food and beverages,9,2021-02-09,1,331.128
+Naypyitaw,Normal,Food and beverages,1,2021-02-09,1,22.659
+Mandalay,Member,Electronic accessories,3,2021-02-09,1,256.41
+Naypyitaw,Normal,Fashion accessories,7,2021-02-09,1,472.311
+Yangon,Member,Food and beverages,1,2021-02-09,1,33.432
+Naypyitaw,Member,Food and beverages,3,2021-02-09,1,66.402
+Mandalay,Normal,Fashion accessories,3,2021-02-09,1,180.4005
+Naypyitaw,Normal,Health and beauty,10,2021-02-09,1,888.405
+Yangon,Member,Sports and travel,10,2021-02-09,1,233.52
+Naypyitaw,Member,Home and lifestyle,6,2021-02-09,1,100.485
+Mandalay,Member,Home and lifestyle,7,2021-02-10,2,271.2885
+Naypyitaw,Normal,Health and beauty,2,2021-02-10,2,70.287
+Yangon,Member,Food and beverages,5,2021-02-10,2,234.0975
+Yangon,Member,Fashion accessories,7,2021-02-10,2,394.3275
+Yangon,Member,Fashion accessories,10,2021-02-10,2,316.47
+Mandalay,Member,Electronic accessories,3,2021-02-10,2,151.4835
+Mandalay,Normal,Sports and travel,4,2021-02-10,2,146.328
+Naypyitaw,Member,Electronic accessories,10,2021-02-10,2,820.365
+Naypyitaw,Normal,Fashion accessories,10,2021-02-11,3,652.26
+Yangon,Normal,Home and lifestyle,3,2021-02-11,3,252.252
+Mandalay,Normal,Health and beauty,9,2021-02-11,3,794.6505
+Mandalay,Member,Food and beverages,10,2021-02-11,3,810.6
+Naypyitaw,Normal,Food and beverages,10,2021-02-11,3,936.6
+Naypyitaw,Member,Home and lifestyle,5,2021-02-11,3,455.1225
+Yangon,Normal,Electronic accessories,5,2021-02-12,4,246.4875
+Naypyitaw,Member,Fashion accessories,1,2021-02-12,4,54.9675
+Mandalay,Member,Home and lifestyle,10,2021-02-12,4,633.99
+Naypyitaw,Member,Food and beverages,10,2021-02-12,4,914.55
+Yangon,Normal,Health and beauty,6,2021-02-12,4,160.209
+Yangon,Member,Sports and travel,2,2021-02-12,4,150.423
+Naypyitaw,Normal,Fashion accessories,7,2021-02-13,5,165.4485
+Naypyitaw,Member,Food and beverages,2,2021-02-13,5,31.227
+Yangon,Member,Electronic accessories,1,2021-02-13,5,80.661
+Mandalay,Member,Sports and travel,4,2021-02-13,5,84.756
+Mandalay,Member,Fashion accessories,5,2021-02-13,5,155.19
+Mandalay,Normal,Sports and travel,6,2021-02-13,5,86.247
+Mandalay,Member,Health and beauty,4,2021-02-14,6,318.108
+Naypyitaw,Normal,Health and beauty,2,2021-02-14,6,122.472
+Naypyitaw,Member,Food and beverages,2,2021-02-14,6,208.677
+Naypyitaw,Member,Food and beverages,10,2021-02-14,6,290.43
+Yangon,Normal,Sports and travel,3,2021-02-14,6,140.6475
+Yangon,Member,Health and beauty,1,2021-02-14,6,95.865
+Mandalay,Member,Food and beverages,9,2021-02-15,0,731.43
+Mandalay,Normal,Health and beauty,6,2021-02-15,0,362.817
+Yangon,Normal,Home and lifestyle,8,2021-02-15,0,587.664
+Yangon,Normal,Food and beverages,3,2021-02-15,0,211.365
+Yangon,Normal,Fashion accessories,3,2021-02-15,0,163.611
+Mandalay,Member,Sports and travel,1,2021-02-15,0,92.7255
+Mandalay,Member,Home and lifestyle,5,2021-02-15,0,93.2925
+Naypyitaw,Member,Electronic accessories,1,2021-02-15,0,103.782
+Mandalay,Normal,Electronic accessories,9,2021-02-15,0,833.9625
+Yangon,Normal,Health and beauty,6,2021-02-15,0,96.138
+Naypyitaw,Normal,Health and beauty,8,2021-02-15,0,282.576
+Naypyitaw,Member,Fashion accessories,3,2021-02-15,0,253.512
+Naypyitaw,Normal,Electronic accessories,10,2021-02-15,0,344.4
+Naypyitaw,Member,Health and beauty,4,2021-02-15,0,287.91
+Naypyitaw,Member,Fashion accessories,10,2021-02-15,0,1042.65
+Mandalay,Normal,Sports and travel,10,2021-02-16,1,545.055
+Yangon,Member,Food and beverages,7,2021-02-16,1,182.427
+Mandalay,Member,Fashion accessories,1,2021-02-16,1,95.9175
+Mandalay,Member,Fashion accessories,4,2021-02-16,1,252.756
+Naypyitaw,Member,Electronic accessories,5,2021-02-16,1,63.2625
+Mandalay,Normal,Fashion accessories,9,2021-02-16,1,345.0195
+Naypyitaw,Normal,Sports and travel,9,2021-02-17,2,440.937
+Yangon,Normal,Food and beverages,3,2021-02-17,2,103.635
+Naypyitaw,Member,Food and beverages,5,2021-02-17,2,374.7975
+Mandalay,Member,Electronic accessories,6,2021-02-17,2,550.935
+Yangon,Member,Health and beauty,3,2021-02-17,2,290.0835
+Yangon,Member,Home and lifestyle,8,2021-02-17,2,745.836
+Yangon,Normal,Sports and travel,9,2021-02-17,2,926.9505
+Mandalay,Member,Electronic accessories,8,2021-02-17,2,300.216
+Naypyitaw,Normal,Electronic accessories,5,2021-02-17,2,62.0025
+Yangon,Member,Food and beverages,8,2021-02-17,2,680.064
+Naypyitaw,Member,Electronic accessories,1,2021-02-18,3,63.9975
+Yangon,Member,Electronic accessories,1,2021-02-18,3,65.604
+Mandalay,Normal,Health and beauty,2,2021-02-18,3,30.996
+Naypyitaw,Member,Health and beauty,4,2021-02-18,3,185.094
+Yangon,Member,Fashion accessories,7,2021-02-18,3,649.299
+Naypyitaw,Normal,Electronic accessories,8,2021-02-19,4,603.876
+Naypyitaw,Normal,Food and beverages,4,2021-02-19,4,173.208
+Yangon,Member,Food and beverages,9,2021-02-19,4,932.337
+Yangon,Member,Electronic accessories,9,2021-02-19,4,657.531
+Naypyitaw,Normal,Health and beauty,8,2021-02-19,4,183.12
+Naypyitaw,Normal,Electronic accessories,9,2021-02-19,4,733.6035
+Yangon,Normal,Fashion accessories,2,2021-02-19,4,206.808
+Mandalay,Normal,Food and beverages,4,2021-02-20,5,253.26
+Mandalay,Member,Food and beverages,3,2021-02-20,5,172.746
+Yangon,Member,Home and lifestyle,2,2021-02-20,5,79.149
+Mandalay,Normal,Food and beverages,10,2021-02-20,5,418.95
+Mandalay,Member,Sports and travel,10,2021-02-20,5,335.895
+Yangon,Normal,Health and beauty,10,2021-02-20,5,339.36
+Mandalay,Normal,Health and beauty,5,2021-02-20,5,350.07
+Mandalay,Member,Food and beverages,3,2021-02-20,5,181.881
+Mandalay,Member,Health and beauty,3,2021-02-21,6,125.7165
+Mandalay,Member,Fashion accessories,4,2021-02-21,6,310.044
+Naypyitaw,Normal,Health and beauty,5,2021-02-21,6,439.215
+Naypyitaw,Normal,Sports and travel,2,2021-02-21,6,207.48
+Yangon,Normal,Home and lifestyle,1,2021-02-22,0,69.111
+Mandalay,Normal,Fashion accessories,5,2021-02-22,0,208.6875
+Naypyitaw,Normal,Sports and travel,7,2021-02-22,0,701.8515
+Naypyitaw,Member,Home and lifestyle,2,2021-02-22,0,26.733
+Mandalay,Normal,Fashion accessories,9,2021-02-22,0,513.2295
+Mandalay,Normal,Home and lifestyle,3,2021-02-22,0,217.2555
+Mandalay,Normal,Fashion accessories,1,2021-02-22,0,49.812
+Yangon,Member,Sports and travel,10,2021-02-22,0,257.145
+Naypyitaw,Member,Food and beverages,4,2021-02-23,1,337.512
+Mandalay,Member,Electronic accessories,9,2021-02-23,1,714.3255
+Naypyitaw,Normal,Food and beverages,1,2021-02-23,1,37.6845
+Mandalay,Member,Food and beverages,3,2021-02-23,1,311.1885
+Naypyitaw,Member,Sports and travel,7,2021-02-23,1,429.1665
+Yangon,Member,Food and beverages,4,2021-02-23,1,308.574
+Naypyitaw,Member,Health and beauty,5,2021-02-24,2,53.34
+Naypyitaw,Normal,Home and lifestyle,10,2021-02-24,2,772.38
+Mandalay,Normal,Food and beverages,8,2021-02-24,2,222.012
+Mandalay,Normal,Sports and travel,6,2021-02-24,2,365.085
+Mandalay,Member,Fashion accessories,2,2021-02-24,2,175.917
+Naypyitaw,Normal,Electronic accessories,10,2021-02-24,2,259.77
+Yangon,Normal,Electronic accessories,10,2021-02-24,2,422.73
+Mandalay,Member,Electronic accessories,1,2021-02-25,3,41.7375
+Mandalay,Normal,Health and beauty,4,2021-02-25,3,262.794
+Yangon,Member,Sports and travel,5,2021-02-25,3,479.9025
+Yangon,Normal,Fashion accessories,4,2021-02-25,3,306.81
+Mandalay,Normal,Fashion accessories,5,2021-02-25,3,494.1825
+Mandalay,Member,Food and beverages,4,2021-02-25,3,263.97
+Mandalay,Member,Health and beauty,8,2021-02-25,3,357.588
+Mandalay,Normal,Sports and travel,1,2021-02-25,3,92.8725
+Mandalay,Member,Home and lifestyle,5,2021-02-25,3,430.71
+Mandalay,Normal,Electronic accessories,10,2021-02-25,3,554.295
+Yangon,Normal,Sports and travel,1,2021-02-25,3,66.8745
+Yangon,Normal,Health and beauty,3,2021-02-25,3,205.317
+Yangon,Member,Fashion accessories,1,2021-02-26,4,58.2225
+Mandalay,Member,Electronic accessories,6,2021-02-26,4,571.41
+Mandalay,Member,Food and beverages,6,2021-02-26,4,167.58
+Mandalay,Normal,Health and beauty,6,2021-02-26,4,628.173
+Mandalay,Normal,Fashion accessories,2,2021-02-26,4,209.769
+Naypyitaw,Normal,Food and beverages,9,2021-02-26,4,216.6885
+Mandalay,Member,Sports and travel,4,2021-02-26,4,401.268
+Yangon,Member,Electronic accessories,7,2021-02-27,5,680.61
+Mandalay,Normal,Sports and travel,5,2021-02-27,5,353.1675
+Yangon,Member,Fashion accessories,2,2021-02-27,5,45.108
+Yangon,Normal,Fashion accessories,9,2021-02-27,5,736.4385
+Mandalay,Normal,Health and beauty,6,2021-02-27,5,485.037
+Yangon,Normal,Food and beverages,10,2021-02-27,5,781.62
+Naypyitaw,Normal,Food and beverages,8,2021-02-27,5,793.548
+Naypyitaw,Normal,Electronic accessories,1,2021-02-27,5,104.6745
+Yangon,Member,Food and beverages,10,2021-02-27,5,197.925
+Mandalay,Normal,Health and beauty,10,2021-02-27,5,141.75
+Mandalay,Normal,Fashion accessories,3,2021-02-27,5,165.123
+Mandalay,Normal,Electronic accessories,1,2021-02-28,6,63.315
+Mandalay,Normal,Fashion accessories,10,2021-02-28,6,431.445
+Yangon,Normal,Health and beauty,3,2021-02-28,6,176.4
+Yangon,Member,Food and beverages,6,2021-02-28,6,507.906
+Mandalay,Normal,Health and beauty,2,2021-03-01,0,145.971
+Naypyitaw,Normal,Fashion accessories,9,2021-03-01,0,742.2975
+Yangon,Normal,Electronic accessories,10,2021-03-01,0,477.54
+Naypyitaw,Member,Food and beverages,4,2021-03-01,0,314.538
+Mandalay,Member,Food and beverages,1,2021-03-01,0,56.406
+Mandalay,Member,Fashion accessories,7,2021-03-01,0,597.6285
+Yangon,Normal,Home and lifestyle,2,2021-03-01,0,72.933
+Mandalay,Normal,Health and beauty,3,2021-03-01,0,46.683
+Mandalay,Member,Electronic accessories,5,2021-03-02,1,69.405
+Mandalay,Member,Electronic accessories,3,2021-03-02,1,82.719
+Mandalay,Normal,Electronic accessories,2,2021-03-02,1,80.367
+Yangon,Normal,Food and beverages,4,2021-03-02,1,279.384
+Naypyitaw,Member,Fashion accessories,5,2021-03-02,1,485.5725
+Mandalay,Normal,Electronic accessories,9,2021-03-02,1,942.4485
+Mandalay,Member,Home and lifestyle,9,2021-03-02,1,835.2855
+Mandalay,Normal,Home and lifestyle,10,2021-03-02,1,1022.49
+Naypyitaw,Normal,Sports and travel,2,2021-03-02,1,30.219
+Naypyitaw,Member,Health and beauty,7,2021-03-02,1,629.16
+Naypyitaw,Normal,Sports and travel,7,2021-03-02,1,543.753
+Yangon,Member,Sports and travel,2,2021-03-02,1,82.887
+Mandalay,Normal,Sports and travel,2,2021-03-02,1,53.151
+Naypyitaw,Member,Sports and travel,10,2021-03-02,1,572.775
+Yangon,Normal,Fashion accessories,1,2021-03-03,2,48.7305
+Mandalay,Member,Home and lifestyle,8,2021-03-03,2,793.716
+Mandalay,Member,Food and beverages,10,2021-03-03,2,767.025
+Naypyitaw,Member,Electronic accessories,10,2021-03-03,2,860.685
+Mandalay,Member,Home and lifestyle,8,2021-03-03,2,253.008
+Naypyitaw,Member,Electronic accessories,8,2021-03-03,2,253.68
+Yangon,Member,Food and beverages,8,2021-03-03,2,186.228
+Yangon,Normal,Health and beauty,1,2021-03-03,2,26.25
+Yangon,Normal,Health and beauty,7,2021-03-03,2,212.7825
+Naypyitaw,Normal,Electronic accessories,8,2021-03-03,2,175.14
+Naypyitaw,Member,Electronic accessories,5,2021-03-03,2,272.58
+Yangon,Member,Fashion accessories,9,2021-03-04,3,462.672
+Yangon,Normal,Home and lifestyle,4,2021-03-04,3,237.426
+Yangon,Member,Health and beauty,6,2021-03-04,3,628.929
+Yangon,Normal,Sports and travel,7,2021-03-04,3,90.699
+Yangon,Normal,Food and beverages,4,2021-03-04,3,313.572
+Mandalay,Member,Electronic accessories,9,2021-03-04,3,181.818
+Yangon,Member,Health and beauty,10,2021-03-04,3,510.615
+Naypyitaw,Normal,Electronic accessories,1,2021-03-04,3,31.752
+Yangon,Normal,Health and beauty,5,2021-03-04,3,76.755
+Mandalay,Member,Health and beauty,8,2021-03-05,4,212.688
+Mandalay,Normal,Sports and travel,10,2021-03-05,4,732.27
+Yangon,Normal,Fashion accessories,2,2021-03-05,4,172.011
+Yangon,Normal,Electronic accessories,3,2021-03-05,4,246.6765
+Naypyitaw,Member,Food and beverages,10,2021-03-05,4,822.255
+Mandalay,Member,Health and beauty,7,2021-03-05,4,411.3795
+Naypyitaw,Member,Health and beauty,7,2021-03-05,4,480.0285
+Mandalay,Normal,Home and lifestyle,6,2021-03-05,4,521.01
+Naypyitaw,Member,Fashion accessories,5,2021-03-05,4,232.155
+Mandalay,Member,Health and beauty,6,2021-03-05,4,258.678
+Naypyitaw,Member,Home and lifestyle,10,2021-03-05,4,127.26
+Naypyitaw,Normal,Sports and travel,7,2021-03-05,4,610.491
+Mandalay,Member,Food and beverages,3,2021-03-05,4,56.952
+Mandalay,Member,Fashion accessories,2,2021-03-06,5,104.832
+Mandalay,Member,Home and lifestyle,8,2021-03-06,5,603.624
+Yangon,Member,Sports and travel,6,2021-03-06,5,580.419
+Mandalay,Member,Sports and travel,9,2021-03-06,5,352.674
+Mandalay,Normal,Sports and travel,5,2021-03-06,5,354.0075
+Yangon,Normal,Health and beauty,1,2021-03-06,5,83.727
+Mandalay,Normal,Food and beverages,7,2021-03-06,5,456.288
+Yangon,Member,Electronic accessories,9,2021-03-06,5,203.175
+Naypyitaw,Normal,Electronic accessories,4,2021-03-07,6,353.094
+Mandalay,Normal,Home and lifestyle,2,2021-03-07,6,33.936
+Yangon,Member,Home and lifestyle,4,2021-03-07,6,118.902
+Naypyitaw,Normal,Fashion accessories,4,2021-03-07,6,69.09
+Naypyitaw,Normal,Food and beverages,2,2021-03-07,6,209.559
+Yangon,Member,Health and beauty,9,2021-03-07,6,146.9475
+Yangon,Normal,Home and lifestyle,1,2021-03-07,6,102.837
+Mandalay,Member,Food and beverages,5,2021-03-08,0,92.5575
+Naypyitaw,Normal,Health and beauty,6,2021-03-08,0,512.19
+Yangon,Normal,Electronic accessories,1,2021-03-08,0,102.018
+Yangon,Normal,Home and lifestyle,6,2021-03-08,0,214.137
+Yangon,Normal,Fashion accessories,5,2021-03-08,0,324.2925
+Naypyitaw,Normal,Food and beverages,2,2021-03-08,0,90.867
+Naypyitaw,Normal,Health and beauty,6,2021-03-08,0,291.438
+Yangon,Member,Home and lifestyle,10,2021-03-08,0,951.825
+Yangon,Normal,Sports and travel,2,2021-03-09,1,127.827
+Yangon,Normal,Health and beauty,4,2021-03-09,1,217.182
+Yangon,Member,Sports and travel,10,2021-03-09,1,548.73
+Naypyitaw,Normal,Fashion accessories,1,2021-03-09,1,17.094
+Naypyitaw,Normal,Electronic accessories,6,2021-03-09,1,478.233
+Yangon,Normal,Fashion accessories,8,2021-03-09,1,817.236
+Mandalay,Member,Sports and travel,9,2021-03-09,1,944.622
+Yangon,Member,Food and beverages,5,2021-03-09,1,523.845
+Mandalay,Normal,Fashion accessories,7,2021-03-09,1,702.219
+Naypyitaw,Member,Food and beverages,9,2021-03-09,1,935.2665
+Naypyitaw,Member,Sports and travel,5,2021-03-09,1,256.7775
+Yangon,Member,Health and beauty,10,2021-03-09,1,545.37
+Naypyitaw,Member,Health and beauty,10,2021-03-10,2,860.475
+Yangon,Normal,Sports and travel,3,2021-03-10,2,81.396
+Yangon,Normal,Home and lifestyle,7,2021-03-10,2,688.6215
+Yangon,Member,Sports and travel,5,2021-03-10,2,328.755
+Yangon,Normal,Electronic accessories,2,2021-03-10,2,121.863
+Mandalay,Normal,Food and beverages,7,2021-03-10,2,133.917
+Yangon,Member,Food and beverages,7,2021-03-10,2,74.4555
+Mandalay,Normal,Food and beverages,3,2021-03-10,2,180.621
+Naypyitaw,Normal,Fashion accessories,3,2021-03-10,2,144.081
+Mandalay,Member,Electronic accessories,5,2021-03-11,3,181.0725
+Naypyitaw,Member,Sports and travel,7,2021-03-11,3,254.016
+Mandalay,Normal,Home and lifestyle,2,2021-03-11,3,84.63
+Yangon,Normal,Home and lifestyle,5,2021-03-11,3,148.68
+Yangon,Normal,Home and lifestyle,8,2021-03-11,3,532.728
+Naypyitaw,Normal,Food and beverages,6,2021-03-11,3,294.651
+Mandalay,Member,Sports and travel,7,2021-03-11,3,217.6335
+Naypyitaw,Member,Health and beauty,7,2021-03-11,3,218.0745
+Naypyitaw,Member,Food and beverages,4,2021-03-12,4,395.892
+Yangon,Member,Health and beauty,4,2021-03-12,4,200.214
+Naypyitaw,Normal,Health and beauty,4,2021-03-12,4,174.3
+Mandalay,Member,Health and beauty,9,2021-03-12,4,608.202
+Mandalay,Member,Home and lifestyle,7,2021-03-12,4,299.3655
+Yangon,Member,Sports and travel,7,2021-03-12,4,723.24
+Mandalay,Normal,Sports and travel,4,2021-03-12,4,410.508
+Mandalay,Member,Electronic accessories,3,2021-03-12,4,33.3585
+Mandalay,Member,Health and beauty,1,2021-03-12,4,40.9605
+Yangon,Normal,Food and beverages,5,2021-03-13,5,284.9175
+Yangon,Member,Health and beauty,10,2021-03-13,5,166.635
+Naypyitaw,Member,Sports and travel,2,2021-03-13,5,153.048
+Yangon,Normal,Food and beverages,7,2021-03-13,5,336.5565
+Naypyitaw,Normal,Fashion accessories,8,2021-03-13,5,102.396
+Mandalay,Normal,Health and beauty,10,2021-03-13,5,190.155
+Mandalay,Member,Fashion accessories,4,2021-03-13,5,160.86
+Mandalay,Normal,Fashion accessories,2,2021-03-13,5,72.87
+Mandalay,Member,Fashion accessories,7,2021-03-14,6,402.2655
+Mandalay,Member,Fashion accessories,4,2021-03-14,6,93.744
+Naypyitaw,Member,Sports and travel,6,2021-03-14,6,221.886
+Naypyitaw,Member,Sports and travel,1,2021-03-14,6,44.9925
+Mandalay,Member,Health and beauty,10,2021-03-14,6,867.09
+Yangon,Member,Food and beverages,2,2021-03-14,6,49.308
+Naypyitaw,Normal,Food and beverages,10,2021-03-14,6,814.38
+Yangon,Member,Sports and travel,9,2021-03-14,6,921.186
+Naypyitaw,Normal,Electronic accessories,9,2021-03-14,6,484.974
+Yangon,Normal,Electronic accessories,3,2021-03-14,6,49.4235
+Mandalay,Normal,Electronic accessories,9,2021-03-14,6,203.931
+Naypyitaw,Member,Electronic accessories,5,2021-03-14,6,461.5275
+Mandalay,Normal,Food and beverages,8,2021-03-14,6,446.964
+Yangon,Normal,Electronic accessories,7,2021-03-14,6,731.6925
+Mandalay,Normal,Health and beauty,1,2021-03-15,0,97.419
+Yangon,Member,Fashion accessories,10,2021-03-15,0,206.43
+Yangon,Normal,Health and beauty,2,2021-03-15,0,202.818
+Yangon,Normal,Health and beauty,9,2021-03-15,0,235.2105
+Naypyitaw,Normal,Home and lifestyle,8,2021-03-15,0,548.184
+Mandalay,Normal,Home and lifestyle,9,2021-03-15,0,128.4255
+Mandalay,Normal,Fashion accessories,2,2021-03-15,0,57.078
+Mandalay,Member,Electronic accessories,4,2021-03-15,0,241.458
+Mandalay,Member,Sports and travel,3,2021-03-15,0,304.92
+Yangon,Normal,Food and beverages,5,2021-03-16,1,333.9525
+Naypyitaw,Member,Health and beauty,2,2021-03-16,1,32.277
+Mandalay,Normal,Electronic accessories,4,2021-03-16,1,401.688
+Naypyitaw,Normal,Food and beverages,9,2021-03-16,1,829.71
+Mandalay,Normal,Sports and travel,1,2021-03-16,1,78.7185
+Yangon,Normal,Home and lifestyle,4,2021-03-16,1,99.75
+Mandalay,Normal,Sports and travel,10,2021-03-16,1,360.885
+Yangon,Member,Sports and travel,10,2021-03-17,2,807.66
+Mandalay,Normal,Sports and travel,6,2021-03-17,2,343.413
+Mandalay,Normal,Home and lifestyle,9,2021-03-17,2,106.596
+Yangon,Normal,Home and lifestyle,4,2021-03-17,2,325.374
+Mandalay,Normal,Home and lifestyle,3,2021-03-18,3,138.978
+Yangon,Normal,Sports and travel,5,2021-03-18,3,174.615
+Mandalay,Normal,Home and lifestyle,3,2021-03-18,3,314.055
+Naypyitaw,Member,Fashion accessories,1,2021-03-18,3,54.0435
+Naypyitaw,Member,Fashion accessories,1,2021-03-18,3,96.579
+Yangon,Member,Home and lifestyle,4,2021-03-19,4,97.818
+Naypyitaw,Member,Electronic accessories,8,2021-03-19,4,743.82
+Naypyitaw,Normal,Sports and travel,9,2021-03-19,4,937.818
+Mandalay,Member,Home and lifestyle,4,2021-03-19,4,163.002
+Naypyitaw,Normal,Health and beauty,4,2021-03-19,4,277.788
+Yangon,Normal,Fashion accessories,1,2021-03-19,4,16.275
+Yangon,Normal,Electronic accessories,9,2021-03-19,4,709.317
+Mandalay,Member,Fashion accessories,8,2021-03-19,4,213.528
+Naypyitaw,Normal,Electronic accessories,1,2021-03-19,4,48.51
+Naypyitaw,Member,Home and lifestyle,4,2021-03-19,4,317.226
+Yangon,Normal,Electronic accessories,5,2021-03-19,4,171.7275
+Naypyitaw,Normal,Electronic accessories,2,2021-03-19,4,55.881
+Yangon,Normal,Home and lifestyle,9,2021-03-20,5,887.922
+Mandalay,Normal,Sports and travel,8,2021-03-20,5,637.728
+Mandalay,Normal,Fashion accessories,2,2021-03-20,5,208.425
+Naypyitaw,Member,Fashion accessories,10,2021-03-20,5,745.395
+Yangon,Normal,Food and beverages,2,2021-03-20,5,90.825
+Naypyitaw,Member,Sports and travel,5,2021-03-20,5,132.5625
+Mandalay,Member,Food and beverages,3,2021-03-20,5,65.7405
+Yangon,Member,Electronic accessories,6,2021-03-20,5,469.413
+Yangon,Member,Food and beverages,1,2021-03-20,5,96.1905
+Mandalay,Member,Fashion accessories,1,2021-03-20,5,35.3115
+Yangon,Member,Sports and travel,10,2021-03-20,5,462.21
+Naypyitaw,Member,Home and lifestyle,6,2021-03-20,5,523.971
+Naypyitaw,Normal,Food and beverages,6,2021-03-21,6,360.927
+Yangon,Member,Electronic accessories,5,2021-03-21,6,149.3625
+Yangon,Normal,Electronic accessories,8,2021-03-21,6,756.168
+Mandalay,Member,Sports and travel,4,2021-03-21,6,207.858
+Mandalay,Member,Sports and travel,8,2021-03-22,0,742.812
+Yangon,Member,Home and lifestyle,8,2021-03-22,0,441.756
+Yangon,Normal,Sports and travel,5,2021-03-22,0,451.0275
+Yangon,Normal,Sports and travel,6,2021-03-22,0,391.419
+Yangon,Normal,Food and beverages,5,2021-03-22,0,296.94
+Yangon,Normal,Home and lifestyle,8,2021-03-22,0,427.812
+Yangon,Normal,Home and lifestyle,1,2021-03-22,0,19.194
+Mandalay,Normal,Sports and travel,6,2021-03-22,0,233.226
+Yangon,Member,Electronic accessories,10,2021-03-23,1,771.435
+Mandalay,Member,Fashion accessories,4,2021-03-23,1,384.468
+Yangon,Normal,Food and beverages,3,2021-03-23,1,166.1625
+Naypyitaw,Normal,Home and lifestyle,7,2021-03-23,1,408.7335
+Yangon,Member,Sports and travel,10,2021-03-23,1,162.75
+Naypyitaw,Member,Home and lifestyle,7,2021-03-23,1,596.82
+Yangon,Normal,Food and beverages,6,2021-03-23,1,465.444
+Yangon,Normal,Fashion accessories,4,2021-03-23,1,156.03
+Mandalay,Normal,Home and lifestyle,6,2021-03-24,2,629.496
+Naypyitaw,Member,Home and lifestyle,1,2021-03-24,2,78.603
+Mandalay,Normal,Sports and travel,5,2021-03-24,2,130.0425
+Naypyitaw,Member,Home and lifestyle,4,2021-03-24,2,329.196
+Yangon,Member,Home and lifestyle,4,2021-03-24,2,276.948
+Naypyitaw,Normal,Electronic accessories,10,2021-03-24,2,681.975
+Naypyitaw,Member,Sports and travel,5,2021-03-24,2,77.175
+Mandalay,Member,Fashion accessories,6,2021-03-24,2,370.125
+Yangon,Member,Electronic accessories,7,2021-03-25,3,142.002
+Naypyitaw,Normal,Electronic accessories,7,2021-03-25,3,627.6165
+Yangon,Normal,Health and beauty,3,2021-03-25,3,49.77
+Yangon,Member,Electronic accessories,4,2021-03-25,3,152.712
+Mandalay,Normal,Sports and travel,2,2021-03-25,3,195.951
+Naypyitaw,Normal,Food and beverages,6,2021-03-25,3,248.409
+Yangon,Normal,Food and beverages,4,2021-03-25,3,232.638
+Yangon,Member,Health and beauty,5,2021-03-26,4,56.1225
+Naypyitaw,Normal,Food and beverages,9,2021-03-26,4,154.1295
+Yangon,Member,Electronic accessories,7,2021-03-26,4,530.67
+Naypyitaw,Member,Health and beauty,2,2021-03-26,4,91.77
+Naypyitaw,Member,Electronic accessories,2,2021-03-26,4,176.925
+Mandalay,Normal,Electronic accessories,3,2021-03-26,4,143.9865
+Mandalay,Member,Home and lifestyle,9,2021-03-26,4,116.1405
+Yangon,Normal,Fashion accessories,1,2021-03-26,4,54.999
+Mandalay,Member,Sports and travel,1,2021-03-26,4,41.076
+Yangon,Normal,Health and beauty,4,2021-03-26,4,269.934
+Mandalay,Member,Electronic accessories,2,2021-03-27,5,116.907
+Yangon,Member,Home and lifestyle,2,2021-03-27,5,93.114
+Yangon,Member,Food and beverages,2,2021-03-27,5,167.034
+Yangon,Normal,Health and beauty,8,2021-03-27,5,272.664
+Naypyitaw,Member,Fashion accessories,9,2021-03-27,5,943.299
+Yangon,Normal,Food and beverages,3,2021-03-27,5,164.871
+Mandalay,Normal,Sports and travel,6,2021-03-27,5,588.357
+Mandalay,Normal,Food and beverages,3,2021-03-27,5,101.808
+Yangon,Member,Food and beverages,5,2021-03-28,6,269.535
+Yangon,Normal,Food and beverages,6,2021-03-28,6,367.038
+Yangon,Normal,Food and beverages,3,2021-03-28,6,225.792
+Naypyitaw,Normal,Electronic accessories,3,2021-03-28,6,150.0975
+Yangon,Member,Health and beauty,7,2021-03-28,6,74.088
+Naypyitaw,Member,Food and beverages,3,2021-03-28,6,121.59
+Yangon,Normal,Electronic accessories,7,2021-03-28,6,191.247
+Naypyitaw,Member,Food and beverages,4,2021-03-28,6,209.118
+Yangon,Normal,Health and beauty,10,2021-03-29,0,749.49
+Naypyitaw,Member,Electronic accessories,10,2021-03-29,0,864.57
+Naypyitaw,Normal,Electronic accessories,4,2021-03-29,0,121.128
+Mandalay,Member,Health and beauty,5,2021-03-29,0,288.015
+Mandalay,Member,Health and beauty,5,2021-03-29,0,321.7725
+Mandalay,Normal,Health and beauty,7,2021-03-29,0,527.5095
+Naypyitaw,Member,Electronic accessories,3,2021-03-30,1,304.983
+Mandalay,Member,Health and beauty,8,2021-03-30,1,609.588
+Yangon,Normal,Sports and travel,7,2021-03-30,1,295.6905
+Yangon,Member,Home and lifestyle,6,2021-03-30,1,216.846
+Naypyitaw,Member,Food and beverages,8,2021-03-30,1,609.168
+Naypyitaw,Member,Fashion accessories,8,2021-03-30,1,85.512
+Yangon,Member,Electronic accessories,5,2021-03-30,1,338.31
+Mandalay,Member,Food and beverages,2,2021-03-30,1,196.14
